@@ -34,7 +34,7 @@ Users should be able to:
 
 **Finished Version:**
 
-![Finished Version Screenshot](./design/my-preview2.png.png)
+![Finished Version Screenshot](./design/my-preview2.png)
 
 ### Links
 
